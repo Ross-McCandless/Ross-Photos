@@ -15,7 +15,7 @@ body {
 
 #menu {
     background-color: #ff7f50;
-    height: 54px;
+    height: 8vh;
     margin-right: 20px;
     margin-left: 20px;
     border-left: 3px solid black;
@@ -45,7 +45,9 @@ h1 {
 @media only screen and (max-width: 500px) {
     h1 {
         font-size: 2em;
-    }    
+    }
+    
+    
 }
 
 
