@@ -46,8 +46,12 @@ h1 {
     h1 {
         font-size: 2em;
     }
-    
-    
+    #menu {
+        height: 5vh;
+    }
+    #aboutme, #contactme {
+        margin: 5px;
+    }
 }
 
 
