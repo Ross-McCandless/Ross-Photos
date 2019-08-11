@@ -47,7 +47,10 @@ h1 {
         font-size: 2em;
     }
     #box {
-        height: 8vh;
+        height: 12vh;
+    }
+    #menu {
+        height: 10vh;
     }
 }
 
